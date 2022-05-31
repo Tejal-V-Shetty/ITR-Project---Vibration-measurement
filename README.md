@@ -1,2 +1,22 @@
 # ITR-Project---Vibration-measurement
 A repository containing the details and resources for the vibration measurement project.
+
+## Aim
+To detect and record vibration in multiple parts of a vehicle simultaneously using vibration sensors.
+
+## Overview 
+The sensors receive power from the Arduino, which in itself is powered by a small portable battery.<br>
+The pins receive the signal from the sensors.<br>
+The signal is then transmitted to an external system, or uploaded to a server, so as to access it using other devices (the choice of upload will be finalized after looking at which one is practically feasible).<br>
+Fourier transforms and other signal conditioning is performed, following which, the data is represented using Python's graphing libraries, and also recorded using the NumPy and Pandas libraries. 
+
+## Components
+- Arduino
+- Bread board
+- Voltage measurement boards X4
+- Piezoelectric disks X4
+- Jumper cables
+- Power bank
+
+## Tools
+- Soldering iron
