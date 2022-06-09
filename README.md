@@ -17,6 +17,9 @@ Fourier transforms and other signal conditioning is performed, following which, 
 - Piezoelectric disks X4
 - Jumper cables
 - Power bank
+- SW-420 vibration sensor
+- SW-18015P vibration sensor
+- Neodymium magnets
 
 ## Tools
 - Soldering iron
