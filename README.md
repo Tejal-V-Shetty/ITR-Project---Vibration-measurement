@@ -28,8 +28,8 @@ Fourier transforms and other signal conditioning is performed, following which, 
 ### WiFi enabled NodeMCU code
 - States the protocol used
 - Has 2 variants : 
--- Only piezoelectric sensor
--- Both piezoelectric and vibration sensors
+  - Only piezoelectric sensor
+  - Both piezoelectric and vibration sensors
 
 ### Serial Monitor output without WiFi
 - Contains code used only for reading the sensor data and displaying it in the serial monitor 
