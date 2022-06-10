@@ -24,7 +24,5 @@ Fourier transforms and other signal conditioning is performed, following which, 
 ## Tools
 - Soldering iron
 
-## Programs
-
 <br>
 <img src="https://github.com/Tejal-V-Shetty/ITR-Project---Vibration-measurement/blob/main/Assets/ITR_Project_Details.jpg" alt="Lumen Alert" width=405>
