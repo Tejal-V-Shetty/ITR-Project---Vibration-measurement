@@ -25,5 +25,15 @@ Fourier transforms and other signal conditioning is performed, following which, 
 - Soldering iron
 
 ## Programs
+### WiFi enabled NodeMCU code
+- States the protocol used
+- Has 2 variants : 
+-- Only piezoelectric sensor
+-- Both piezoelectric and vibration sensors
+
+### Serial Monitor output without WiFi
+- Contains code used only for reading the sensor data and displaying it in the serial monitor 
+- Used only for testing pursposes
+
 <br>
 <img src="https://github.com/Tejal-V-Shetty/ITR-Project---Vibration-measurement/blob/main/Assets/ITR_Project_Details.jpg" alt="Lumen Alert" width=405>
