@@ -7,11 +7,13 @@ import pandas as pd
 import select
 
 #Readings- 1-Initial, 2-Lesser delay,3, 4-Modified code+delay200ms
-UDP_IP1 = "192.168.43.250"#50,253
+UDP_IP1 = "192.168.43.50"#250   ,253
 UDP_IP_R = "0.0.0.0"
-UDP_PORT1 = 4210#8888
+UDP_PORT1 = 8888#4210
 file_name='C:\\Users\\Tejal\\Documents\\Programs\\Readings_'+dt.datetime.now().strftime('%d-%m--%Hh%Mm')+'.csv'
-graphline="..........---------------------------------------------------------------------------------------------------"
+graphline1="..........---------------------------------------------------------------------------------------------------"
+#Graphline- 1 to 100 | 100 onwards in steps of 100
+graphline="■■■■■■■■■■███████████████████████████████████████████████████████████████████████████████████████████████████"
 flag=0
 
 xs = []
