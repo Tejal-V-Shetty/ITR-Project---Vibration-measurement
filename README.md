@@ -33,7 +33,7 @@ Fourier transforms and other signal conditioning is performed, following which, 
 
 ### Serial Monitor output without WiFi
 - Contains code used only for reading the sensor data and displaying it in the serial monitor 
-- Used only for testing pursposes
+- Used only for testing 
 
 <br>
 <img src="https://github.com/Tejal-V-Shetty/ITR-Project---Vibration-measurement/blob/main/Assets/ITR_Project_Details.jpg" alt="Lumen Alert" width=405>
